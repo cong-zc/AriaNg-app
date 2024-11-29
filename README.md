@@ -3,8 +3,12 @@
 ## 修改配置目录
 
 1.配置在aria2目录内,自行更换本地文件
+
 2.请将aria2目录添加到环境变量的path目录
+
 3.前端基于ariaNG,url:<https://github.com/mayswind/AriaNg>
+
+4.编译:go build -tags desktop,production -ldflags "-w -s -H windowsgui"
 
 ## About
 

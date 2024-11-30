@@ -10,6 +10,8 @@
 
 4.编译:go build -tags desktop,production -ldflags "-w -s -H windowsgui"
 
+5.请将编译后的文件和aria文件夹放于同一目录
+
 ## About
 
 This is the official Wails React-TS template.
